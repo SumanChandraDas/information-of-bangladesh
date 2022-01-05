@@ -29,3 +29,27 @@ header{
     cursor: pointer;
     color: green;
 }
+.secound-section{
+    margin-top: 20px;
+    text-align: center;
+}
+.heading-secound-section{
+    text-align: center;
+}
+.divition{
+    width: 250px;
+    border: 2px solid gray;
+    box-shadow: 10px 5px 12px gray;
+    
+}
+.divition img{
+    width: 100%;
+}
+.all-divition{
+    display: flex;
+    justify-content: space-around;
+    padding: 23px;
+}
+.footer-area{
+    text-align: center;
+}
