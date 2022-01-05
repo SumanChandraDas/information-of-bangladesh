@@ -1,0 +1,31 @@
+.body{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    text-align: center;
+    color: green;
+}
+.first-section{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.informaton-side{
+    width: 50%;
+}
+.image-side img{
+    margin-left: 47%;
+    width: 250px;
+}
+.details-button{
+    padding: 10px 20px;
+    background: linear-gradient(rgb(212, 200, 21),rgb(122, 160, 122),rgb(84, 84, 124),rgb(160, 91, 91));
+    border-radius: 3px;
+    border: none;
+}
+.details-button:hover{
+    cursor: pointer;
+    color: green;
+}
